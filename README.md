@@ -2,6 +2,8 @@
 
 Notes about SQL based of Khan Academy SQL courses: [SQL courses](https://www.khanacademy.org/computing/computer-programming/sql) and w3 school [tutorial/cheatsheet](https://www.w3schools.com/sql/default.asp).
 
+[TOC]
+
 ## TL;DR
 
 - **SELECT** - extracts data from a database
